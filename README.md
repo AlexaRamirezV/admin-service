@@ -9,6 +9,11 @@ Servidor de monitoreo visual que permite visualizar el estado (`Health`), métri
 2.  **Verificación:** Acceder a `http://localhost:9090` para ver el estado.
 
 ---
+**Nota:** Si se accede al final se vería algo como:
+
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/1588a529-c15e-48c3-b434-83b54f2e23b7" />
+
+---
 ### 🔗 Mapa de Arquitectura
 0. [Config data](https://github.com/AlexaRamirezV/config-data.git)
 1. [Config Server](https://github.com/AlexaRamirezV/config-service.git)
@@ -20,7 +25,3 @@ Servidor de monitoreo visual que permite visualizar el estado (`Health`), métri
    * [Customer](https://github.com/AlexaRamirezV/DWB-customer.git)
    * [Product](https://github.com/xEriis/Backend.git)
    * [Invoice](https://github.com/AlexaRamirezV/DWB-invoice.git)
----
-**Nota:** Si se accede al final se vería algo como:
-
-<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/1588a529-c15e-48c3-b434-83b54f2e23b7" />
